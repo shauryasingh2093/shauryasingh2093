@@ -1,7 +1,6 @@
 ## 👋 About Me
 Hey there! I'm Shaurya Singh, a passionate Data Science & Full Stack Enthusiast with a flair for AI/ML, Deep Learning, and UI/UX Design. I love turning complex ideas into elegant, user-centric digital experiences. From building intelligent habit trackers to designing futuristic productivity apps, I'm constantly experimenting, learning, and creating. Whether it’s Python notebooks, React apps, or Figma mockups—you’ll always find me crafting something smart and beautiful.
 
-💡 Currently building NeuroNest – an AI-powered productivity sanctuary.
 
 🧠 Obsessed with bridging tech and design for impactful solutions.
 
